@@ -1,14 +1,14 @@
 
 //JAVA Besic Format
 
-public class java_basic 
+public class java_basic
 
 {
-    public static void main (String args[])
-    
+    public static void main(String args[])
+
     {
 
-    System.out.println("Mahadi Hasan Mishuk");
+        System.out.println("Mahadi Hasan Mishuk");
 
     }
 }
