@@ -10,7 +10,7 @@ public class Bubble_sort {
 
     public static void main(String args[]) {
 
-        int arr[] = { 6, 7, 3, 4, 5, 10, 40, 2 };
+        int arr[] = { 76,94,63,4,2,3,6,9,1,76,94,53,425,67};
 
          // bubble sort
         for (int i = 0; i < arr.length - 1; i++) {
