@@ -7,7 +7,6 @@ public class Bubble_sort {
         }
         System.out.println();
     }
-
     public static void main(String args[]) {
 
         int arr[] = { 76,94,63,4,2,3,6,9,1,76,94,53,425,67};
