@@ -8,16 +8,15 @@ public class array_inout {
         int size = sc.nextInt();
         int num[] = new int[size];
 
-        for( int i=0;i<size;i++){
-            num[i]=sc.nextInt();
+        for (int i = 0; i < size; i++) {
+            num[i] = sc.nextInt();
         }
-        int x=sc.nextInt();
+        int x = sc.nextInt();
         for (int i = 0; i < num.length; i++) {
-            if (num[i]==x){
-                System.out.println("x founden in position"+ i);
+            if (num[i] == x) {
+                System.out.println("x founden in position" + i);
             }
 
-             
         }
 
     }
