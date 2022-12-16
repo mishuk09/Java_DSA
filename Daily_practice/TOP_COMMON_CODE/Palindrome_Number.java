@@ -1,6 +1,6 @@
 package TOP_COMMON_CODE;
 
-public class Reverse_number {
+public class Palindrome_Number {
 
     public static void main(String args[]) {
 
@@ -10,15 +10,14 @@ public class Reverse_number {
         while (num > 0) {
             int lastDigit = num % 10;
             rev = (rev * 10) + lastDigit;
+
             num = num / 10;
         }
-        System.out.println(rev);
-        if (num == rev) {
-            System.out.println("Palindrome");
 
+        if (num == rev) {
+            System.out.println("Number is palindrome");
         } else {
             System.out.println("Not palindrome");
         }
     }
-
 }
