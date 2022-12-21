@@ -1,6 +1,6 @@
 package TOP_COMMON_CODE;
 
-public class f {
+public class Factorial_num {
     public static void main(String args[]) {
 
         int num = 5;

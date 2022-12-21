@@ -1,6 +1,6 @@
 package TOP_COMMON_CODE;
 
-public class Armsstron_Number {
+public class Armstron_Number {
     public static void main(String args[]) {
 
         int num = 153;
