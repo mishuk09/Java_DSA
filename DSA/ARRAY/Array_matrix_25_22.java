@@ -22,7 +22,6 @@ public class Array_matrix_25_22 {
                 System.out.print(arr[i][j] + " ");
             }
         }
-        System.out.println();
 
     }
 
