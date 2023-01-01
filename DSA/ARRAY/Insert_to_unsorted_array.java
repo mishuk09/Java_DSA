@@ -8,12 +8,15 @@ public class Insert_to_unsorted_array {
         int x = 26;
         int position = 3;
 
-        System.out.println("Before insert");
+        System.out.println("Before insert"); 
 
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }
         System.out.println();
+
+
+        //define location
 
         for (int i = arr.length - 1; i > position - 1; i--) {
 
