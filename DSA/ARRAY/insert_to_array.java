@@ -1,6 +1,6 @@
 package ARRAY;
 
-public class insert_last_to_array {
+public class insert_to_array {
 
     public static void main(String args[]) {
 

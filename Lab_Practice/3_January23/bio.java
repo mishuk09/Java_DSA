@@ -4,7 +4,7 @@ class index{
     public static void main (String args[]){
 
 
-        Scanner sc=new Scanner(null)
+        Scanner sc=new Scanner(null);
  
         int marks=65;
 
