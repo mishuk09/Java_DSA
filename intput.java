@@ -8,6 +8,7 @@ public class intput {
         int firstVariable = 100;
 
         System.out.println(firstVariable);
+        System.out.println("firstVariable");
 
     }
 
