@@ -60,27 +60,40 @@ public class arith {
 
  
     
-       Scanner input= new Scanner(System.in);
-       int a=input.nextInt();
-       float f=input.nextFloat();
-       double d=input.nextDouble();
+    //    Scanner input= new Scanner(System.in);
+    //    int a=input.nextInt();
+    //    float f=input.nextFloat();
+    //    double d=input.nextDouble();
 
-       float x=((float)a);
-       int y=((int)f);
-       double z=((float)d);
+    //    float x=((float)a);
+    //    int y=((int)f);
+    //    double z=((float)d);
 
 
-       System.out.println(x);
-       System.out.println(y);
-       System.out.println(z);
+    //    System.out.println(x);
+    //    System.out.println(y);
+    //    System.out.println(z);
 
 
  
- 
+    // char a=56;
+    // System.out.println(a);
 
 
 
 
+    char x = 'a';
+
+    // using strings
+
+    String firstName = "John";
+    String lastName = "Lennon";
+
+    String fullName = firstName + lastName;
+    System.out.println(fullName);
+
+    System.out.println(firstName + " " + lastName);
+    System.out.println("My name is: " + firstName);
 
 
 
