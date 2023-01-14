@@ -12,9 +12,46 @@ public class arith {
 
 
         //int a = 5*6.5;
-        double a = 5*5;
-        System.out.println(a); 
+        // double a = 5*5;
+        // System.out.println(a);
+        
 
+    //   double x = 2.5;
+
+    //   double y = 1.5;
+
+    //   double z = (int)x/(int)y;
+
+    //   System.out.println(z);
+        
+    // int a=200;
+    // double d=420.4;
+    
+    // a= (int) d;
+    // double b=(double) a;
+    // System.out.println(a);
+    // System.out.println(b);
+
+
+//     int a=110;
+// char b=(char)a;
+// System.out.print(b);
+
+
+// char a='a';
+// char b='A';
+// int i=(int)a-(int)b;
+// char c=(char) i;
+// System.out.print(c);
+
+
+int a=2;
+
+char b='1';
+
+int c=a+(int)b;
+
+System.out.println(c);
 
     }
     
