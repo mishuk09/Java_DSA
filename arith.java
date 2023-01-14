@@ -86,20 +86,28 @@ public class arith {
 
     // using strings
 
-    String firstName = "John";
-    String lastName = "Lennon";
+    // String firstName = "John";
+    // String lastName = "Lennon";
 
-    String fullName = firstName + lastName;
-    System.out.println(fullName);
+    // String fullName = firstName + lastName;
+    // System.out.println(fullName);
 
-    System.out.println(firstName + " " + lastName);
-    System.out.println("My name is: " + firstName);
-
-
+    // System.out.println(firstName + " " + lastName);
+    // System.out.println("My name is: " + firstName);
 
 
 
+   
+    Scanner input= new Scanner(System.in);
 
+    String name;
+    int year;
+    name=input.nextLine();
+    year=input.nextInt();
+
+    System.out.println("Hello"+ " "+ name);
+    System.out.println("Free service till:"+year);
+   
 
 
 
