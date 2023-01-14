@@ -1,3 +1,4 @@
+import java.util.*;
 public class arith {
     public static void main(String args []){
 
@@ -45,13 +46,104 @@ public class arith {
 // System.out.print(c);
 
 
-int a=2;
+// int a=2;
 
-char b='1';
+// char b='1';
 
-int c=a+(int)b;
+// int c=a+(int)b;
 
-System.out.println(c);
+// System.out.println(c);
+
+
+
+ 
+
+ 
+    
+       Scanner input= new Scanner(System.in);
+       int a=input.nextInt();
+       float f=input.nextFloat();
+       double d=input.nextDouble();
+
+       float x=((float)a);
+       int y=((int)f);
+       double z=((float)d);
+
+
+       System.out.println(x);
+       System.out.println(y);
+       System.out.println(z);
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
     
