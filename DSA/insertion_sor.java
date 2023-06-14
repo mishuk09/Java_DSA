@@ -9,7 +9,7 @@ public class insertion_sor {
     }
 
     public static void main(String args[]) {
-        int arr[] = { 435, 675654634, 32, 34, 43, 5, 46, 4342 };
+        int arr[] = { 435, 6756,54634, 32, 34, 43, 5, 46, 4342 };
 
         for (int i = 1; i < arr.length; i++) {
             int current = arr[i];
